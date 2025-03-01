@@ -4,27 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74e605bb-8bce-4264-a716-694da75492f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a-z_Operator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operator_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operator_cuboid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operator_incdec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operator_maxNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operator_oddeven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operator_posNegZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operator_quadequation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operator_remainder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operator_sdpd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operator_swap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operator_triarea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator_1.java" afterDir="false" />
+    <list default="true" id="74e605bb-8bce-4264-a716-694da75492f9" name="Changes" comment="operator">
+      <change afterPath="$PROJECT_DIR$/src/Operator_3largest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operator_Leap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operator_Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operator_absoluteValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operator_bitwiseOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operator_circleArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operator_deciToBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operator_power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operator_prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operator_reverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operator_sumOfDigiit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operator_temperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vowelConsonant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,37 +48,37 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Asus/IdeaProjects/a-z_Operator/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Operator_posNegZero">
-    <configuration name="Operator_incdec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operator_incdec" />
+  <component name="RunManager" selected="Application.Operator_deciToBinary">
+    <configuration name="Operator_Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operator_Palindrome" />
       <module name="a-z_Operator" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operator_maxNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operator_maxNumber" />
+    <configuration name="Operator_deciToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operator_deciToBinary" />
       <module name="a-z_Operator" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operator_posNegZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operator_posNegZero" />
+    <configuration name="Operator_prime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operator_prime" />
       <module name="a-z_Operator" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operator_remainder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operator_remainder" />
+    <configuration name="Operator_reverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operator_reverseNumber" />
       <module name="a-z_Operator" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operator_swap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operator_swap" />
+    <configuration name="Operator_sumOfDigiit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operator_sumOfDigiit" />
       <module name="a-z_Operator" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Operator_posNegZero" />
-        <item itemvalue="Application.Operator_maxNumber" />
-        <item itemvalue="Application.Operator_incdec" />
-        <item itemvalue="Application.Operator_remainder" />
-        <item itemvalue="Application.Operator_swap" />
+        <item itemvalue="Application.Operator_deciToBinary" />
+        <item itemvalue="Application.Operator_Palindrome" />
+        <item itemvalue="Application.Operator_sumOfDigiit" />
+        <item itemvalue="Application.Operator_reverseNumber" />
+        <item itemvalue="Application.Operator_prime" />
       </list>
     </recent_temporary>
   </component>
@@ -109,6 +103,46 @@
       <option name="presentableId" value="Default" />
       <updated>1736066962361</updated>
     </task>
+    <task id="LOCAL-00001" summary="operator">
+      <option name="closed" value="true" />
+      <created>1740584499901</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740584499901</updated>
+    </task>
+    <task id="LOCAL-00002" summary="operator">
+      <option name="closed" value="true" />
+      <created>1740584580786</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740584580786</updated>
+    </task>
+    <task id="LOCAL-00003" summary="operator">
+      <option name="closed" value="true" />
+      <created>1740584605495</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740584605495</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="operator" />
+    <option name="LAST_COMMIT_MESSAGE" value="operator" />
   </component>
 </project>
