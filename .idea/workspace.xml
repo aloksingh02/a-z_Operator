@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74e605bb-8bce-4264-a716-694da75492f9" name="Changes" comment="operator basic">
+    <list default="true" id="74e605bb-8bce-4264-a716-694da75492f9" name="Changes" comment="operator">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,41 +32,40 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Asus/IdeaProjects/a-z_Operator/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Asus/IdeaProjects/a-z_Operator/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Operator_incdec">
-    <configuration name="Operator_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operator_2" />
+  <component name="RunManager" selected="Application.Operator_deciToBinary">
+    <configuration name="Operator_Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operator_Palindrome" />
       <module name="a-z_Operator" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operator_3largest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operator_3largest" />
+    <configuration name="Operator_deciToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operator_deciToBinary" />
       <module name="a-z_Operator" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operator_incdec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operator_incdec" />
+    <configuration name="Operator_prime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operator_prime" />
       <module name="a-z_Operator" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="inc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inc" />
+    <configuration name="Operator_reverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operator_reverseNumber" />
       <module name="a-z_Operator" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="operator_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operator_1" />
+    <configuration name="Operator_sumOfDigiit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operator_sumOfDigiit" />
       <module name="a-z_Operator" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Operator_incdec" />
-        <item itemvalue="Application.inc" />
-        <item itemvalue="Application.Operator_3largest" />
-        <item itemvalue="Application.Operator_2" />
-        <item itemvalue="Application.operator_1" />
+        <item itemvalue="Application.Operator_deciToBinary" />
+        <item itemvalue="Application.Operator_Palindrome" />
+        <item itemvalue="Application.Operator_sumOfDigiit" />
+        <item itemvalue="Application.Operator_reverseNumber" />
+        <item itemvalue="Application.Operator_prime" />
       </list>
     </recent_temporary>
   </component>
@@ -123,55 +122,7 @@
       <option name="project" value="LOCAL" />
       <updated>1740820533530</updated>
     </task>
-    <task id="LOCAL-00005" summary="operator">
-      <option name="closed" value="true" />
-      <created>1740822949773</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1740822949773</updated>
-    </task>
-    <task id="LOCAL-00006" summary="alok">
-      <option name="closed" value="true" />
-      <created>1740838728789</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1740838728789</updated>
-    </task>
-    <task id="LOCAL-00007" summary="alok">
-      <option name="closed" value="true" />
-      <created>1740838768475</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1740838768475</updated>
-    </task>
-    <task id="LOCAL-00008" summary="alok">
-      <option name="closed" value="true" />
-      <created>1740838922035</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1740838922035</updated>
-    </task>
-    <task id="LOCAL-00009" summary="alok">
-      <option name="closed" value="true" />
-      <created>1740838983421</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1740838983421</updated>
-    </task>
-    <task id="LOCAL-00010" summary="operator basic">
-      <option name="closed" value="true" />
-      <created>1740839318403</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1740839318403</updated>
-    </task>
-    <option name="localTasksCounter" value="11" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,8 +138,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="operator" />
-    <MESSAGE value="alok" />
-    <MESSAGE value="operator basic" />
-    <option name="LAST_COMMIT_MESSAGE" value="operator basic" />
+    <option name="LAST_COMMIT_MESSAGE" value="operator" />
   </component>
 </project>
