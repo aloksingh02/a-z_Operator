@@ -32,10 +32,11 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Asus/IdeaProjects/a-z_Operator/src/Main.java&quot;
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Asus/IdeaProjects/a-z_Operator/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Operator_deciToBinary">
+  <component name="RunManager" selected="Application.operator_1">
     <configuration name="Operator_Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Operator_Palindrome" />
       <module name="a-z_Operator" />
@@ -45,13 +46,6 @@
     </configuration>
     <configuration name="Operator_deciToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Operator_deciToBinary" />
-      <module name="a-z_Operator" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Operator_prime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operator_prime" />
       <module name="a-z_Operator" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,13 +65,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="operator_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operator_1" />
+      <module name="a-z_Operator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.operator_1" />
         <item itemvalue="Application.Operator_deciToBinary" />
         <item itemvalue="Application.Operator_Palindrome" />
         <item itemvalue="Application.Operator_sumOfDigiit" />
         <item itemvalue="Application.Operator_reverseNumber" />
-        <item itemvalue="Application.Operator_prime" />
       </list>
     </recent_temporary>
   </component>
@@ -122,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740820533530</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="operator">
+      <option name="closed" value="true" />
+      <created>1740822949773</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740822949773</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
