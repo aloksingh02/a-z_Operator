@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74e605bb-8bce-4264-a716-694da75492f9" name="Changes" comment="operator basic" />
+    <list default="true" id="74e605bb-8bce-4264-a716-694da75492f9" name="Changes" comment="operator basic 1">
+      <change afterPath="$PROJECT_DIR$/src/setBitBinaryNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2rCdOrjV3H4GRDfRtTxnXHgvYUM" />
@@ -33,7 +41,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Asus/IdeaProjects/a-z_Operator/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Operator_circleArea">
+  <component name="RunManager" selected="Application.setBitBinaryNumber">
     <configuration name="Operator_Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Operator_Palindrome" />
       <module name="a-z_Operator" />
@@ -55,13 +63,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operator_reverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operator_reverseNumber" />
-      <module name="a-z_Operator" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Operator_sumOfDigiit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Operator_sumOfDigiit" />
       <module name="a-z_Operator" />
@@ -69,13 +70,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="setBitBinaryNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="setBitBinaryNumber" />
+      <module name="a-z_Operator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.setBitBinaryNumber" />
         <item itemvalue="Application.Operator_circleArea" />
         <item itemvalue="Application.Operator_deciToBinary" />
         <item itemvalue="Application.Operator_Palindrome" />
         <item itemvalue="Application.Operator_sumOfDigiit" />
-        <item itemvalue="Application.Operator_reverseNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +168,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740846233791</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="operator basic">
+      <option name="closed" value="true" />
+      <created>1740887512693</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1740887512693</updated>
+    </task>
+    <task id="LOCAL-00011" summary="operator basic 1">
+      <option name="closed" value="true" />
+      <created>1740887749255</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1740887749255</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,6 +201,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="operator" />
     <MESSAGE value="operator basic" />
-    <option name="LAST_COMMIT_MESSAGE" value="operator basic" />
+    <MESSAGE value="operator basic 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="operator basic 1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/setBitBinaryNumber.java</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
