@@ -1,0 +1,121 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"74e605bb-8bce-4264-a716-694da75492f9\" name=\"Changes\" comment=\"Operators\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"PREVIOUS_COMMIT_AUTHORS\">\r\n      <list>\r\n        <option value=\"aloksingh02 &lt;singhalokkumar427@gmail.com&gt;\" />\r\n      </list>\r\n    </option>\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"main\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2rCdOrjV3H4GRDfRtTxnXHgvYUM\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Asus/IdeaProjects/a-z_Operator/src/Main.java&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RunManager\" selected=\"Application.setBitBinaryNumber\">\r\n    <configuration name=\"Operator_Palindrome\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Operator_Palindrome\" />\r\n      <module name=\"a-z_Operator\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Operator_circleArea\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Operator_circleArea\" />\r\n      <module name=\"a-z_Operator\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Operator_deciToBinary\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Operator_deciToBinary\" />\r\n      <module name=\"a-z_Operator\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Operator_sumOfDigiit\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Operator_sumOfDigiit\" />\r\n      <module name=\"a-z_Operator\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"setBitBinaryNumber\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"setBitBinaryNumber\" />\r\n      <module name=\"a-z_Operator\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.setBitBinaryNumber\" />\r\n        <item itemvalue=\"Application.Operator_circleArea\" />\r\n        <item itemvalue=\"Application.Operator_deciToBinary\" />\r\n        <item itemvalue=\"Application.Operator_Palindrome\" />\r\n        <item itemvalue=\"Application.Operator_sumOfDigiit\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"74e605bb-8bce-4264-a716-694da75492f9\" name=\"Changes\" comment=\"\" />\r\n      <created>1736066962361</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1736066962361</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"operator\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740584499901</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740584499901</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"operator\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740584580786</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740584580786</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"operator\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740584605495</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740584605495</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"operator\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740820533530</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740820533530</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"operator basic\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740842731866</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740842731866</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"operator basic\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740842816544</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740842816544</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"operator basic\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740842828502</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740842828502</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"operator basic\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740842842555</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740842842555</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"operator basic\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740846233791</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740846233791</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"operator basic\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740887512693</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740887512693</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00011\" summary=\"operator basic 1\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740887749255</created>\r\n      <option name=\"number\" value=\"00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740887749255</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00012\" summary=\"setBitBinaryNumber\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740998820748</created>\r\n      <option name=\"number\" value=\"00012\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740998820750</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00013\" summary=\"Operators\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740999247590</created>\r\n      <option name=\"number\" value=\"00013\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00013\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740999247590</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00014\" summary=\"Operators\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740999261252</created>\r\n      <option name=\"number\" value=\"00014\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00014\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740999261252</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00015\" summary=\"Operators\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740999533052</created>\r\n      <option name=\"number\" value=\"00015\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00015\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740999533052</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"16\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"operator\" />\r\n    <MESSAGE value=\"operator basic\" />\r\n    <MESSAGE value=\"operator basic 1\" />\r\n    <MESSAGE value=\"setBitBinaryNumber\" />\r\n    <MESSAGE value=\"Operators\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Operators\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/setBitBinaryNumber.java</url>\r\n          <line>1</line>\r\n          <option name=\"timeStamp\" value=\"1\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 5df6cc30f15ce1f6fc76c309f247390cfb69e3f4)
++++ b/.idea/workspace.xml	(date 1741000515217)
+@@ -4,7 +4,10 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="74e605bb-8bce-4264-a716-694da75492f9" name="Changes" comment="Operators" />
++    <list default="true" id="74e605bb-8bce-4264-a716-694da75492f9" name="Changes" comment="Operators">
++      <changelist_data name="aloksingh02" email="singhalokkumar427@gmail.com" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -18,6 +21,19 @@
+     </option>
+   </component>
+   <component name="Git.Settings">
++    <excluded-from-favorite>
++      <branch-storage>
++        <map>
++          <entry type="LOCAL">
++            <value>
++              <list>
++                <branch-info repo="$PROJECT_DIR$" source="main" />
++              </list>
++            </value>
++          </entry>
++        </map>
++      </branch-storage>
++    </excluded-from-favorite>
+     <option name="PREVIOUS_COMMIT_AUTHORS">
+       <list>
+         <option value="aloksingh02 &lt;singhalokkumar427@gmail.com&gt;" />
+@@ -43,30 +59,30 @@
+     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Asus/IdeaProjects/a-z_Operator/src/Main.java&quot;
+   }
+ }</component>
+-  <component name="RunManager" selected="Application.setBitBinaryNumber">
+-    <configuration name="Operator_Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="Operator_Palindrome" />
++  <component name="RunManager" selected="Application.Operator_quadequation">
++    <configuration name="Operator_circleArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="Operator_circleArea" />
+       <module name="a-z_Operator" />
+       <method v="2">
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="Operator_circleArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="Operator_circleArea" />
++    <configuration name="Operator_deciToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="Operator_deciToBinary" />
+       <module name="a-z_Operator" />
+       <method v="2">
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="Operator_deciToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="Operator_deciToBinary" />
++    <configuration name="Operator_quadequation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="Operator_quadequation" />
+       <module name="a-z_Operator" />
+       <method v="2">
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="Operator_sumOfDigiit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="Operator_sumOfDigiit" />
++    <configuration name="Operator_triarea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="Operator_triarea" />
+       <module name="a-z_Operator" />
+       <method v="2">
+         <option name="Make" enabled="true" />
+@@ -81,11 +97,11 @@
+     </configuration>
+     <recent_temporary>
+       <list>
++        <item itemvalue="Application.Operator_quadequation" />
++        <item itemvalue="Application.Operator_triarea" />
+         <item itemvalue="Application.setBitBinaryNumber" />
+         <item itemvalue="Application.Operator_circleArea" />
+         <item itemvalue="Application.Operator_deciToBinary" />
+-        <item itemvalue="Application.Operator_Palindrome" />
+-        <item itemvalue="Application.Operator_sumOfDigiit" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -218,7 +234,23 @@
+       <option name="project" value="LOCAL" />
+       <updated>1740999533052</updated>
+     </task>
+-    <option name="localTasksCounter" value="16" />
++    <task id="LOCAL-00016" summary="Operators">
++      <option name="closed" value="true" />
++      <created>1740999724864</created>
++      <option name="number" value="00016" />
++      <option name="presentableId" value="LOCAL-00016" />
++      <option name="project" value="LOCAL" />
++      <updated>1740999724864</updated>
++    </task>
++    <task id="LOCAL-00017" summary="Operators">
++      <option name="closed" value="true" />
++      <created>1740999790883</created>
++      <option name="number" value="00017" />
++      <option name="presentableId" value="LOCAL-00017" />
++      <option name="project" value="LOCAL" />
++      <updated>1740999790883</updated>
++    </task>
++    <option name="localTasksCounter" value="18" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
